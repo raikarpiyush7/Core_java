@@ -1,4 +1,4 @@
-package Core_java;
+package Datatypes;
 
 public class implicit {
     public static void main(String[] args) {
